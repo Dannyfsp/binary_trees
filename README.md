@@ -1,11 +1,11 @@
 A readme on Binary trees project given by ALX.
 
-## Binary Tree
+# Binary Tree
 Binary tree is a special data structure used for data storage purposes. It has a special condition that each node can have a maximum of two children. It has the benefits of both an ordered array and a linked list as search is as quick as in a sorted array and insertion or deletion operation are as fast as in linked list.
 
 Note that tree represents the nodes connected by edges.
 
-# Important Terms
+## Important Terms
 * Path - Path refers to the sequence of nodes along the edges of a tree.
 * Root - The node at the top of the tree is called root. There is only one root per tree and one path from the root node to any node.
 * Parent - Any node except the root node that has one edge upward to a node is called a parent.
@@ -25,5 +25,5 @@ Other things we were excepted to be able to explain to anyone without the help o
 * What is a complete, a full, a perfect, a balanced binary tree
 
 AUTHORS:
-Aghogho Bogare
-Japhet Agbagher
++ Aghogho Bogare	- femoscopilala@gmail.com
++ Japhet Agbagher
