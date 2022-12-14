@@ -26,4 +26,4 @@ Other things we were excepted to be able to explain to anyone without the help o
 
 AUTHORS:
 + Aghogho Bogare	- femoscopilala@gmail.com
-+ Japhet Agbagher
++ Japhet Agbagher       - ternguy1995@gmail.com
